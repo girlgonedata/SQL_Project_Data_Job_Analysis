@@ -260,7 +260,7 @@ ORDER BY
 LIMIT 25
 ```
 ![Top skills for top-paid jobs.](chart_5.png)
-[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/2_top_paying_roles_skills.py](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/5_the_most_optimal_skill.py)
+[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/5_the_most_optimal_skill.py)
 
 ### Insights:
 1. **Top-Paying Skills:**
