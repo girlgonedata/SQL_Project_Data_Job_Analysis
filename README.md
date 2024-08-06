@@ -32,6 +32,7 @@ For my plunge into the data analyst job market, I navigated the currents using s
 - PostgreSQL
 - VS Code
 - GitHub
+- Pandas and Matplotlib for visualisation in Python
 
 # The Analysis
 
@@ -178,6 +179,7 @@ LIMIT 25
 ```
 ![Top-paying data skills](chart_4.png)
 [Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/4_top_paying_skills.py)
+
 Here are some quick insights into the trends for the top-paying skills for data analysts based on the provided data:
 
 - High demand for Big Data &ML Skills
@@ -291,7 +293,8 @@ Focusing on high-demand skills with robust salaries, particularly Python and Tab
 Throughout this cruise I refreshed my SQL knowledge:
 - practiced merging tables and WITH clause,
 - used aggregate functions (COUNT(), AVG() and along with GROUP BY) for data analysis,
-- turned questions into SQL queries.
+- turned questions into SQL queries,
+- how to create simple visualisations in Python using Pandas and matplotlib.
 
 What's more, I learned how to use VS Code and how to write a good README for my GitHub project.
 
