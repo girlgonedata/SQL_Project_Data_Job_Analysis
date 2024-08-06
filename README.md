@@ -59,6 +59,9 @@ AND salary_year_avg IS NOT NULL
 ORDER BY salary_year_avg DESC
 LIMIT 10
 ```
+![Top paying Data analyst jobs](chart_1.png)
+[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/1_top_paying_jobs.py)
+
 ### Salary Range (in the top 10)
 - Highest: $650,000
 - Lowest: $217,000
