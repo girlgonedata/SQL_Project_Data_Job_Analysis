@@ -140,7 +140,7 @@ ORDER BY demand_count DESC
 LIMIT 5
 ```
 ![Top demanded data skills in the job market](chart_3.png)
-[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/3_top_demanded_skills.py))
+[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/3_top_demanded_skills.py)
 
 
 ### Insights
@@ -176,7 +176,8 @@ GROUP BY skills
 ORDER BY avg_salary DESC
 LIMIT 25
 ```
-
+![Top-paying data skills](chart_4.png)
+[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/4_top_paying_skills.py)
 Here are some quick insights into the trends for the top-paying skills for data analysts based on the provided data:
 
 - High demand for Big Data &ML Skills
