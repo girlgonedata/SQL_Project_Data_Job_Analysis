@@ -139,6 +139,9 @@ GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 5
 ```
+![Top demanded data skills in the job market](chart_3.png)
+[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/3_top_demanded_skills.py))
+
 
 ### Insights
 1. **SQL (7,291 requests):** SQL tops the list by a significant margin. This indicates a high demand for skills related to database management, querying, and data manipulation. SQL’s dominance suggests that roles involving data analysis, database administration, and business intelligence heavily rely on this skill.
