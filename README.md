@@ -98,7 +98,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     salary_year_avg DESC
 ```
-[output_0_1](https://github.com/user-attachments/assets/b40f6bbe-a85e-4f97-bed7-f289a2576177)
+(chart_2.png)
 [Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/2_top_paying_roles_skills.py)
 
 ### Here are the top 10 most common skills required for the top-paid data analyst roles in 2023 based on the job postings:
