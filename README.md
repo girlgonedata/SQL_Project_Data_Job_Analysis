@@ -1,4 +1,4 @@
-# SQL_Project_Data_Job_Analysis
+## SQL_Project_Data_Job_Analysis
 
 # **Skills in the Data Job Market**
 # Introduction
