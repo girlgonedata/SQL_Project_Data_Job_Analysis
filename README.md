@@ -1,5 +1,6 @@
 # SQL_Project_Data_Job_Analysis
 
+# **Skills in the Data Job Market**
 # Introduction
 Let's sail into the uncharted waters of data jobs. In this project, I'm diving into data job postings from 2023 to discover hidden treasures of top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 # Background
