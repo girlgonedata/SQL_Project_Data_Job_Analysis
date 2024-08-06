@@ -69,8 +69,6 @@ LIMIT 10
 - Pinterest - Data Analyst, Marketing: $232,423
 - Uclahealthcareers - Data Analyst (Hybrid/Remote): $217,000
 
-Here's a ChatGPT-generated bar chart visualizing the top 10 highest-paying remote Data Analyst jobs. The chart shows the companies and their corresponding average yearly salaries, with the highest-paying job listed at the top.
-
 ### 2. Skills for Top Paying Jobs
 To identify the skills needed for the highest-paying jobs, I joined job postings with skills data, revealing what employers prioritize for well-compensated positions.
 
@@ -261,6 +259,9 @@ ORDER BY
     
 LIMIT 25
 ```
+![Top skills for top-paid jobs.](chart_5.png)
+[[Chart generated in Python](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/2_top_paying_roles_skills.py](https://github.com/girlgonedata/SQL_Project_Data_Job_Analysis/blob/main/5_the_most_optimal_skill.py))
+
 ### Insights:
 1. **Top-Paying Skills:**
 
